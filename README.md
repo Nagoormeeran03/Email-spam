@@ -1,4 +1,4 @@
-# **EMAIL SPAM DETECTION USING MACHINE LARNING**
+# **EMAIL SPAM DETECTION USING MACHINE LEARNING**
 
 # ![Spam Detection](https://thumbs.dreamstime.com/b/red-spam-detected-icon-phishing-scam-hacking-concept-cyber-security-concept-alert-message-red-spam-detected-icon-phishing-scam-242696284.jpg)
 
