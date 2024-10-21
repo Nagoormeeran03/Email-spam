@@ -10,7 +10,7 @@ This project focuses on detecting spam emails using machine learning techniques,
 # **Dataset**
 The dataset used for this project is taken from Kaggle:
 
-- **Source**: [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/code)  
+- **Source**: [Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/code)  
   The dataset contains a collection of SMS messages labeled as "ham" (non-spam) or "spam."
 
 ---
